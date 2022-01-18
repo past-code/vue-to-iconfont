@@ -1,4 +1,4 @@
-## vue-iconfonts-cli
+## vue-to-iconfont
 用纯JS把iconfont.cn的图标转换成Vue组件，不依赖字体，支持多色彩
 
 ![](https://github.com/Yorksh1re/vue-iconfont-cli/blob/master/images/icons.png?raw=true)
@@ -15,10 +15,10 @@
 安装插件
 ```bash
 # Yarn
-yarn add vue-iconfonts-cli --dev
+yarn add vue-to-iconfont --dev
 
 # Npm
-npm install vue-iconfonts-cli --save-dev
+npm install vue-to-iconfont --save-dev
 ```
 
 # Step 2
