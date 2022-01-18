@@ -1,6 +1,6 @@
 {
-  "name": "vue-iconfonts-cli",
-  "version": "1.0.6",
+  "name": "vue-to-iconfont",
+  "version": "1.0.0",
   "main": "index.js",
   "keywords": [
     "iconfont",
@@ -10,8 +10,8 @@
     "icons",
     "iconfont.cn"
   ],
-  "repository": "git@github.com:Yorksh1re/vue-iconfont-cli.git",
-  "author": "Yorksh1re <ezreeeeal@gmail.com>",
+  "repository": "git@github.com:past-code/vue-to-iconfont.git",
+  "author": "past-code <30926607@qq.com>",
   "license": "MIT",
   "bin": {
     "iconfont": "./commands/help.js",
